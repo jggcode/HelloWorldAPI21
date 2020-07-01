@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.API.DotNetCore21", "HelloWorld.API.DotNetCore21\HelloWorld.API.DotNetCore21.csproj", "{39FF89C7-6C64-45F2-9271-FA7B183EF7DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.API.Tests.DotNetCore21", "HelloWorld.API.Tests.DotNetCore21\HelloWorld.API.Tests.DotNetCore21.csproj", "{DE1A178B-943F-499C-8D02-EC057FAD758A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39FF89C7-6C64-45F2-9271-FA7B183EF7DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FF89C7-6C64-45F2-9271-FA7B183EF7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FF89C7-6C64-45F2-9271-FA7B183EF7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FF89C7-6C64-45F2-9271-FA7B183EF7DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE1A178B-943F-499C-8D02-EC057FAD758A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1A178B-943F-499C-8D02-EC057FAD758A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1A178B-943F-499C-8D02-EC057FAD758A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1A178B-943F-499C-8D02-EC057FAD758A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE4DA663-3A70-4F55-87CD-67B2D3A0892D}
+	EndGlobalSection
+EndGlobal
